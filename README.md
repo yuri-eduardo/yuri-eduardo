@@ -15,5 +15,6 @@
     <img align="center" alt="css" src="https://img.shields.io/badge/CSS3-239120?&style=for-the-badge&logo=css3&logoColor=white" /> 
 </div><br/>
 
-🔥 Em constante evolução, assim como a tecnologia.
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yuri-eduardo&layout=compact)
 
+🔥 Em constante evolução, assim como a tecnologia.
